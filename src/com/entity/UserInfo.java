@@ -1,5 +1,5 @@
 package com.entity;
-//
+
 import java.util.Date;
 
 public class UserInfo {
