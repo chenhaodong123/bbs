@@ -17,7 +17,7 @@ public class NavigationPage {
 	}
 	public void setParentid(Integer parentid) {
 		this.parentid = parentid;
-	}//
+	}
 	public Integer getSid() {
 		return sid;
 	}

@@ -1,7 +1,7 @@
 package com.page;
 
 import java.util.Date;
-//
+
 public class DetailPage {
 	
 	private String title;

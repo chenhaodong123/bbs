@@ -7,7 +7,7 @@ import java.util.Date;
 
 public class CommonDAO {
 
-	// 根据用户id获得用户名字//
+	// 根据用户id获得用户名字
 	public static String getUserNameById(Integer uId) {
 		BaseDAO dao = new BaseDAO();
 		ResultSet rs = null;
